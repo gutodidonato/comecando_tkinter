@@ -1,0 +1,32 @@
+{
+  "cliente": {
+    "nome": "Jonathan",
+    "idade": 25,
+    "email": "jonathansilva@gmail.com",
+    "cpf": 312321321323123,
+    "telefone": "(84)99670-4522",
+    "endereco": {
+      "Estado": "São Paulo",
+      "Cidade": "Ribeirão Preto",
+      "Bairro": "Centro",
+      "Logradouro": "Av. Paulista",
+      "Numero": 1234
+    },
+    "bicicleta": {
+      "marca": "Caloi",
+      "modelo": "XTR",
+      "anoFabricacao": 2018,
+      "cor": "Vermelho",
+      "tamanho": "Grande",
+      "preco": 1500.0,
+      "descricao": "Muito boa qualidade e confortável para viagem de longas distâncias.",
+      "imagens": ["img1", "img2"],
+      "acessorio": [
+        {
+          "tipoAcessorio": "banco duro do nicolas",
+          "quantidade": 2
+        }
+      ]
+    }
+  }
+}
